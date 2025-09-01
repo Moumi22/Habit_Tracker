@@ -2,33 +2,42 @@ Habit Tracker - Flutter App
 A modern, feature-rich habit tracking application built with Flutter and Firebase. Track your daily habits, monitor progress, and stay motivated with inspirational quotes.
 
 🚀 Features
+
+
 📱 Core Functionality
 Habit Management: Create, edit, and delete habits with custom categories
 Progress Tracking: Monitor completion rates, streaks, and overall progress
 Daily Overview: View today's habits and completion status
 Category Filtering: Organize habits by categories (Health, Study, Fitness, etc.)
 Streak Tracking: Track consecutive days of habit completion
+
+
 🎨 User Interface
 Modern Design: Clean, intuitive Material Design 3 interface
 Dark/Light Mode: Toggle between light and dark themes
 Responsive Layout: Optimized for various screen sizes
 Pull-to-Refresh: Refresh data with smooth animations
 Floating Action Button: Quick access to add new habits
+
+
 📊 Analytics & Insights
 Progress Charts: Visual representation of habit completion over time
 Category Statistics: Breakdown of progress by habit category
 Success Rates: Track completion percentages and trends
 Streak Analytics: Monitor your longest and current streaks
+
 💬 Motivation & Inspiration
 Daily Quotes: Get inspired with motivational quotes
 Quote Favorites: Save and manage your favorite quotes
 Random Inspiration: Discover new quotes to stay motivated
 Offline Support: Fallback quotes when internet is unavailable
+
 🔐 Authentication & Security
 Firebase Authentication: Secure user registration and login
 Session Persistence: Stay logged in across app restarts
 Profile Management: Update personal information and preferences
 Password Reset: Recover account access if needed
+
 🛠️ Technology Stack
 Frontend
 Flutter: Cross-platform mobile development framework
@@ -53,6 +62,7 @@ pull_to_refresh: Pull-to-refresh functionality
 flutter_slidable: Swipeable list items
 fl_chart: Chart visualization
 http: API requests
+
 📋 Prerequisites
 Before running this project, ensure you have:
 
@@ -61,6 +71,7 @@ Dart SDK: Version 2.17.0 or higher
 Android Studio or VS Code: IDE with Flutter extensions
 Firebase Project: Configured Firebase project with Authentication and Firestore
 Android Emulator or Physical Device: For testing
+
 🚀 Installation & Setup
 1. Clone the Repository
 git clone https://github.com/yourusername/habit-tracker.git
@@ -91,6 +102,7 @@ FIREBASE_PROJECT_ID=your-project-id
 FIREBASE_API_KEY=your-api-key
 5. Run the Application
 flutter run
+
 📁 Project Structure
 lib/
 ├── main.dart                 # App entry point
@@ -120,6 +132,7 @@ lib/
     ├── habit_card.dart       # Habit display card
     ├── quote_card.dart       # Quote display card
     └── stats_card.dart       # Statistics card
+    
 🎯 Usage Guide
 Getting Started
 Launch the app and create an account or sign in
@@ -141,6 +154,7 @@ Daily Quotes: Get inspired with motivational quotes
 Favorites: Save quotes that resonate with you
 Random Quotes: Discover new inspiration
 Offline Access: Quotes available without internet
+
 🔧 Configuration
 Firebase Security Rules
 // Firestore security rules
@@ -178,6 +192,7 @@ class AppConfig {
   static const String quotableApiUrl = 'https://api.quotable.io';
   static const String zenQuotesApiUrl = 'https://zenquotes.io/api';
 }
+
 🧪 Testing
 Unit Tests
 flutter test
@@ -185,6 +200,7 @@ Widget Tests
 flutter test test/widget_test.dart
 Integration Tests
 flutter drive --target=test_driver/app.dart
+
 📱 Build & Deploy
 Android Build
 # Debug build
@@ -203,6 +219,7 @@ flutter build ios --debug
 flutter build ios --release
 Web Build
 flutter build web --release
+
 🤝 Contributing
 Fork the repository
 Create a feature branch: git checkout -b feature/amazing-feature
@@ -214,6 +231,7 @@ Follow Flutter coding conventions
 Write meaningful commit messages
 Add tests for new features
 Update documentation as needed
+
 🐛 Troubleshooting
 Common Issues
 Firebase Configuration
@@ -243,11 +261,13 @@ Flutter Team: For the amazing framework
 Firebase Team: For the backend services
 Material Design: For the design system
 Open Source Community: For the libraries and tools
+
 📞 Support
 Issues: Report bugs on GitHub Issues
 Discussions: Join community discussions
 Documentation: Check the wiki for detailed guides
 Email: Contact the development team
+
 🔄 Changelog
 Version 1.0.0
 Initial release
