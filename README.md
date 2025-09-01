@@ -1,10 +1,12 @@
 Habit Tracker - Flutter App
 A modern, feature-rich habit tracking application built with Flutter and Firebase. Track your daily habits, monitor progress, and stay motivated with inspirational quotes.
 
+
 🚀 Features
 
 
 📱 Core Functionality
+
 Habit Management: Create, edit, and delete habits with custom categories
 Progress Tracking: Monitor completion rates, streaks, and overall progress
 Daily Overview: View today's habits and completion status
@@ -258,28 +260,51 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🙏 Acknowledgments
 Flutter Team: For the amazing framework
+
 Firebase Team: For the backend services
+
 Material Design: For the design system
+
 Open Source Community: For the libraries and tools
+
+
 
 📞 Support
 Issues: Report bugs on GitHub Issues
+
 Discussions: Join community discussions
+
 Documentation: Check the wiki for detailed guides
+
 Email: Contact the development team
 
+
 🔄 Changelog
+
 Version 1.0.0
+
 Initial release
+
 Basic habit tracking functionality
+
 Firebase integration
+
 Modern UI design
+
 Quote system
+
 Progress analytics
+
 Version 1.1.0 (Planned)
+
 Offline support
+
 Data export/import
+
 Advanced analytics
+
 Social features
+
 Custom themes
+
 Made with ❤️ using Flutter
