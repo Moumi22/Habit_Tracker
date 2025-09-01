@@ -74,7 +74,7 @@ Android Emulator or Physical Device: For testing
 
 🚀 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/habit-tracker.git
+git clone https://github.com/Moumi22/Habit_Tracker
 cd habit-tracker
 2. Install Dependencies
 flutter pub get
