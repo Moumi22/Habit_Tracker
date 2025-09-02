@@ -47,6 +47,9 @@ Floating Action Button: Quick access to add new habits
 ![Image](https://github.com/user-attachments/assets/7a8b0673-51a9-412b-899c-de6460ef7131)
 
 
+![Image](https://github.com/user-attachments/assets/a59cecf3-2c78-4cbb-803a-36190f7a4caa)
+
+
 
 📊 Analytics & Insights
 
