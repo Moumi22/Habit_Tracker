@@ -33,6 +33,12 @@ Floating Action Button: Quick access to add new habits
 
 
 
+
+
+![Image](https://github.com/user-attachments/assets/a71bc696-f416-473f-95af-ee6582dbf5f7)
+
+
+
 📊 Analytics & Insights
 
 Progress Charts: Visual representation of habit completion over time
